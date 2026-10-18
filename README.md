@@ -6,8 +6,6 @@ Interactive frontend for The Nexus 5 presentation. It shows the full path from s
 
 Serve the `dist/` directory with any static HTTP server, then open `index.html` through that server. For example: `python3 -m http.server 4173 --directory dist`, then visit `http://localhost:4173`. There is no build step or package installation.
 
-The project is ready to commit to a private Git repository. Commit `dist/`, `README.md`, and `.gitignore`. The local `.openai/` configuration belongs to an unpublished Sites draft and is excluded from Git.
-
 ## Demo path
 
 1. Start in **Human review** and open the supplier email under **Overlooked evidence**.
